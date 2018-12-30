@@ -1,0 +1,23 @@
+{
+  "name": "react-webpack-startup-project",
+  "version": "1.0.0",
+  "description": "Basic webpack configuration to simply start the ReactJS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendyl93/react-webpack-startup-project.git"
+  },
+  "author": "Pawel Stanecki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendyl93/react-webpack-startup-project/issues"
+  },
+  "homepage": "https://github.com/kendyl93/react-webpack-startup-project#readme",
+  "devDependencies": {
+    "webpack": "^4.28.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
